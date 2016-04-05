@@ -1,0 +1,9 @@
+附件是1427ASP.NET OA系统源代码自动化办公系统源代码。请接收。
+1、开发工具：VS2010
+2、数据库：SQL 2005.2008
+3、解压密码 407640582
+4、登录帐户：用户名407640582 密码1
+    如果登录不了，请执行如下语句：
+     update dbo.ERPUser set UserPwd='6C3D4C2BA288DB70' where UserName='407640582'
+
+5、Jquery EasyUI框架 浏览器兼容：IE6,7,8,FIREFOX,google,火狐浏览器

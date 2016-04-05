@@ -1,0 +1,76 @@
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\BLL\bin\Debug\SDLX.BLL.dll
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\BLL\bin\Debug\SDLX.BLL.pdb
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\BLL\bin\Debug\SDLX.Common.dll
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\BLL\bin\Debug\SDLX.DBUtility.dll
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\BLL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\BLL\bin\Debug\COM.Excel.dll
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\BLL\bin\Debug\office.dll
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\BLL\bin\Debug\Excel.dll
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\BLL\bin\Debug\SDLX.DBUtility.pdb
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\BLL\bin\Debug\SDLX.Common.pdb
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\BLL\obj\Debug\SDLX.BLL.dll
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\BLL\obj\Debug\SDLX.BLL.pdb
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\SDLX.BLL\bin\Debug\SDLX.BLL.dll
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\SDLX.BLL\bin\Debug\SDLX.BLL.pdb
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\SDLX.BLL\bin\Debug\SDLX.Common.dll
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\SDLX.BLL\bin\Debug\SDLX.DBUtility.dll
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\SDLX.BLL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\SDLX.BLL\bin\Debug\COM.Excel.dll
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\SDLX.BLL\bin\Debug\office.dll
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\SDLX.BLL\bin\Debug\Excel.dll
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\SDLX.BLL\bin\Debug\SDLX.DBUtility.pdb
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\SDLX.BLL\bin\Debug\SDLX.Common.pdb
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\SDLX.BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\SDLX.BLL\obj\Debug\SDLX.BLL.dll
+D:\work_dev\JqueryOA\炜烨办公OA系统\代码\SDLX.BLL\obj\Debug\SDLX.BLL.pdb
+D:\马琴淘宝网站\oa\00175-可以换皮肤的oa系统源码\最新版-手机oa\代码\SDLX.BLL\bin\Debug\SDLX.BLL.dll
+D:\马琴淘宝网站\oa\00175-可以换皮肤的oa系统源码\最新版-手机oa\代码\SDLX.BLL\bin\Debug\SDLX.BLL.pdb
+D:\马琴淘宝网站\oa\00175-可以换皮肤的oa系统源码\最新版-手机oa\代码\SDLX.BLL\bin\Debug\SDLX.Common.dll
+D:\马琴淘宝网站\oa\00175-可以换皮肤的oa系统源码\最新版-手机oa\代码\SDLX.BLL\bin\Debug\SDLX.DBUtility.dll
+D:\马琴淘宝网站\oa\00175-可以换皮肤的oa系统源码\最新版-手机oa\代码\SDLX.BLL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\马琴淘宝网站\oa\00175-可以换皮肤的oa系统源码\最新版-手机oa\代码\SDLX.BLL\bin\Debug\COM.Excel.dll
+D:\马琴淘宝网站\oa\00175-可以换皮肤的oa系统源码\最新版-手机oa\代码\SDLX.BLL\bin\Debug\office.dll
+D:\马琴淘宝网站\oa\00175-可以换皮肤的oa系统源码\最新版-手机oa\代码\SDLX.BLL\bin\Debug\Excel.dll
+D:\马琴淘宝网站\oa\00175-可以换皮肤的oa系统源码\最新版-手机oa\代码\SDLX.BLL\bin\Debug\SDLX.DBUtility.pdb
+D:\马琴淘宝网站\oa\00175-可以换皮肤的oa系统源码\最新版-手机oa\代码\SDLX.BLL\bin\Debug\SDLX.Common.pdb
+D:\马琴淘宝网站\oa\00175-可以换皮肤的oa系统源码\最新版-手机oa\代码\SDLX.BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\马琴淘宝网站\oa\00175-可以换皮肤的oa系统源码\最新版-手机oa\代码\SDLX.BLL\obj\Debug\SDLX.BLL.dll
+D:\马琴淘宝网站\oa\00175-可以换皮肤的oa系统源码\最新版-手机oa\代码\SDLX.BLL\obj\Debug\SDLX.BLL.pdb
+D:\马琴淘宝网站\oa\00176-可以换皮肤的手机oa\00176-最新版手机oa\最新版-手机oa\代码\SDLX.BLL\bin\Debug\SDLX.BLL.dll
+D:\马琴淘宝网站\oa\00176-可以换皮肤的手机oa\00176-最新版手机oa\最新版-手机oa\代码\SDLX.BLL\bin\Debug\SDLX.BLL.pdb
+D:\马琴淘宝网站\oa\00176-可以换皮肤的手机oa\00176-最新版手机oa\最新版-手机oa\代码\SDLX.BLL\bin\Debug\SDLX.Common.dll
+D:\马琴淘宝网站\oa\00176-可以换皮肤的手机oa\00176-最新版手机oa\最新版-手机oa\代码\SDLX.BLL\bin\Debug\SDLX.DBUtility.dll
+D:\马琴淘宝网站\oa\00176-可以换皮肤的手机oa\00176-最新版手机oa\最新版-手机oa\代码\SDLX.BLL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\马琴淘宝网站\oa\00176-可以换皮肤的手机oa\00176-最新版手机oa\最新版-手机oa\代码\SDLX.BLL\bin\Debug\COM.Excel.dll
+D:\马琴淘宝网站\oa\00176-可以换皮肤的手机oa\00176-最新版手机oa\最新版-手机oa\代码\SDLX.BLL\bin\Debug\office.dll
+D:\马琴淘宝网站\oa\00176-可以换皮肤的手机oa\00176-最新版手机oa\最新版-手机oa\代码\SDLX.BLL\bin\Debug\Excel.dll
+D:\马琴淘宝网站\oa\00176-可以换皮肤的手机oa\00176-最新版手机oa\最新版-手机oa\代码\SDLX.BLL\bin\Debug\SDLX.DBUtility.pdb
+D:\马琴淘宝网站\oa\00176-可以换皮肤的手机oa\00176-最新版手机oa\最新版-手机oa\代码\SDLX.BLL\bin\Debug\SDLX.Common.pdb
+D:\马琴淘宝网站\oa\00176-可以换皮肤的手机oa\00176-最新版手机oa\最新版-手机oa\代码\SDLX.BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\马琴淘宝网站\oa\00176-可以换皮肤的手机oa\00176-最新版手机oa\最新版-手机oa\代码\SDLX.BLL\obj\Debug\SDLX.BLL.dll
+D:\马琴淘宝网站\oa\00176-可以换皮肤的手机oa\00176-最新版手机oa\最新版-手机oa\代码\SDLX.BLL\obj\Debug\SDLX.BLL.pdb
+F:\我的项目\我的淘宝\1427\asp.net大型OA系统\SDLX.BLL\bin\Debug\SDLX.BLL.dll
+F:\我的项目\我的淘宝\1427\asp.net大型OA系统\SDLX.BLL\bin\Debug\SDLX.BLL.pdb
+F:\我的项目\我的淘宝\1427\asp.net大型OA系统\SDLX.BLL\bin\Debug\SDLX.Common.dll
+F:\我的项目\我的淘宝\1427\asp.net大型OA系统\SDLX.BLL\bin\Debug\SDLX.DBUtility.dll
+F:\我的项目\我的淘宝\1427\asp.net大型OA系统\SDLX.BLL\bin\Debug\Excel.dll
+F:\我的项目\我的淘宝\1427\asp.net大型OA系统\SDLX.BLL\bin\Debug\COM.Excel.dll
+F:\我的项目\我的淘宝\1427\asp.net大型OA系统\SDLX.BLL\bin\Debug\SDLX.Common.pdb
+F:\我的项目\我的淘宝\1427\asp.net大型OA系统\SDLX.BLL\bin\Debug\SDLX.DBUtility.pdb
+F:\我的项目\我的淘宝\1427\asp.net大型OA系统\SDLX.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\我的项目\我的淘宝\1427\asp.net大型OA系统\SDLX.BLL\obj\Debug\SDLX.BLL.dll
+F:\我的项目\我的淘宝\1427\asp.net大型OA系统\SDLX.BLL\obj\Debug\SDLX.BLL.pdb
+C:\Users\Guan Zhou\Desktop\C#\ASP.NET C# OA系统源代码自动化办公 附带手机版系统源码\Code\SDLX.BLL\bin\Debug\SDLX.BLL.dll
+C:\Users\Guan Zhou\Desktop\C#\ASP.NET C# OA系统源代码自动化办公 附带手机版系统源码\Code\SDLX.BLL\bin\Debug\SDLX.BLL.pdb
+C:\Users\Guan Zhou\Desktop\C#\ASP.NET C# OA系统源代码自动化办公 附带手机版系统源码\Code\SDLX.BLL\bin\Debug\SDLX.Common.dll
+C:\Users\Guan Zhou\Desktop\C#\ASP.NET C# OA系统源代码自动化办公 附带手机版系统源码\Code\SDLX.BLL\bin\Debug\SDLX.DBUtility.dll
+C:\Users\Guan Zhou\Desktop\C#\ASP.NET C# OA系统源代码自动化办公 附带手机版系统源码\Code\SDLX.BLL\bin\Debug\Excel.dll
+C:\Users\Guan Zhou\Desktop\C#\ASP.NET C# OA系统源代码自动化办公 附带手机版系统源码\Code\SDLX.BLL\bin\Debug\COM.Excel.dll
+C:\Users\Guan Zhou\Desktop\C#\ASP.NET C# OA系统源代码自动化办公 附带手机版系统源码\Code\SDLX.BLL\bin\Debug\office.dll
+C:\Users\Guan Zhou\Desktop\C#\ASP.NET C# OA系统源代码自动化办公 附带手机版系统源码\Code\SDLX.BLL\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Guan Zhou\Desktop\C#\ASP.NET C# OA系统源代码自动化办公 附带手机版系统源码\Code\SDLX.BLL\bin\Debug\SDLX.Common.pdb
+C:\Users\Guan Zhou\Desktop\C#\ASP.NET C# OA系统源代码自动化办公 附带手机版系统源码\Code\SDLX.BLL\bin\Debug\SDLX.DBUtility.pdb
+C:\Users\Guan Zhou\Desktop\C#\ASP.NET C# OA系统源代码自动化办公 附带手机版系统源码\Code\SDLX.BLL\obj\Debug\SDLX.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Guan Zhou\Desktop\C#\ASP.NET C# OA系统源代码自动化办公 附带手机版系统源码\Code\SDLX.BLL\obj\Debug\SDLX.BLL.dll
+C:\Users\Guan Zhou\Desktop\C#\ASP.NET C# OA系统源代码自动化办公 附带手机版系统源码\Code\SDLX.BLL\obj\Debug\SDLX.BLL.pdb
